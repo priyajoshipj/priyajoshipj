@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Priya Joshi  
-**Software Engineer | React Specialist | UI Performance & a11y Advocate**
+**Software Engineer | JAVASCRIPT Specialist | REACT.JS | NEXT.JS | UI Performance & a11y Advocate**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;React+Specialist;TypeScript+Advocate;a11y+Accessibility+Focused;Performance+Optimized+UI+Lover" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 - 💼 Currently working as a **SDE2 (Software Engineer)**  
 - 🧠 Passionate about scalable, performant, and accessible web applications  
 - 🔍 Focused on React ecosystem, TypeScript, and a11y-first UI development  
-- 🧩 Exploring better DX with tools like Apollo GraphQL and SQL-backed APIs  
+- 🧩 REST API | Apollo GraphQL and SQL-backed APIs  
 
 ---
 
